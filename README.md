@@ -1,6 +1,6 @@
 # KPMG-Virtual-Internship
 
-![Logos](https://smartcanucks.ca/wp-content/uploads/2011/03/user34045_pic26761_1297359722.jpg)
+![Logos](https://hitconsultant.net/wp-content/uploads/2015/04/KPMG-logo.jpg)
 
 ### background information of client
 
