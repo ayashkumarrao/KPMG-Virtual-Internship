@@ -2,7 +2,7 @@
 
 ![Logos](https://hitconsultant.net/wp-content/uploads/2015/04/KPMG-logo.jpg)
 
-### background information of client
+## Background information of client
 
 Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. 
 
@@ -19,7 +19,7 @@ Customer Addresses
 Transactions data in the past 3 months
 You decide to start the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data.
 
-### Task to be performed 
+## Task to be performed 
 
 1. Data Quality Assessment --> Assessment of data quality and completeness in preparation for analysis
 
@@ -28,7 +28,7 @@ You decide to start the preliminary data exploration and identify ways to improv
 3. Data Insights and Presentation --> Using visualisations to present insights
 
 
-#### Solved by using Excel & Tableau 
+### Solved by using Excel & Tableau 
 
 <img align="centre" alt="codeSTACKr | Tableau" width="49px" src="https://mactorrents.io/wp-content/uploads/2019/09/1567360414_224_excel_2016_for_mac_15_logo_icon.jpg" />       <img align="centre" alt="codeSTACKr | Tableau" width="49px" src="https://apps.joltteam.com/cdn/brikbuild/tableau-icon-pixel-art-5a5f5c4d755c41916225ab5e.brickImg.jpg" />
 
