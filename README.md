@@ -1,3 +1,5 @@
+![Excel](https://img.shields.io/badge/Tool-Excel-blue) ![Tableau](https://img.shields.io/badge/Tool-Tableau-yellowgreen) ![Status](https://img.shields.io/badge/Status-Completed-success) ![DA](https://img.shields.io/badge/Data-Analytics-ff69b4)
+
 # KPMG-Virtual-Internship
 
 ![Logos](https://hitconsultant.net/wp-content/uploads/2015/04/KPMG-logo.jpg)
